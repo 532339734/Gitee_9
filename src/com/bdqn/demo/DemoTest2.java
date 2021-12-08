@@ -14,6 +14,7 @@ public class DemoTest2 {
 
         System.out.println("1234");
         System.out.println("hot-fix test");
+        System.out.println("push test");
 
     }
 }
